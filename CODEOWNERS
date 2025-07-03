@@ -1,0 +1,5 @@
+# Усі файли — під відповідальністю @username
+* @username
+
+# Директорія src — під @frontend-dev
+/src/ @frontend-dev
